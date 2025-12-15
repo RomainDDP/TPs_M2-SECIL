@@ -1,0 +1,8 @@
+# Fichiers objets
+**/*.o
+
+# Exécutables / images ELF
+**/*.elf
+
+# Dossiers se terminant par -ottawa (et tout leur contenu)
+**/*-otawa/
